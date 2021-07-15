@@ -1,0 +1,21 @@
+// 1. Create a VueJs 3.* project using TypeScript (usage of axios will be highly appreciated)
+//    For each point below, propose a user-friendly interface (usage of Tailwind Css will be highly appreciated)  
+//
+// 2. I want to fetch my list of users from 'https://jsonplaceholder.typicode.com/users'. Propose a user-friendly interface. 
+//
+// 3. Then I want to display name and username of each user inside a table
+//   Exemple: 
+//      |     Name      |  Username |
+//      | Leanne Graham | Bret      |
+//      | Ervin Howell  | Antonette |
+//
+// 4. I want a form to create an user (minimum 2 fields: name and username)  with a button to validate the form
+//      4.a. When I validate the form the user table should update with the new user I created
+//      4.b. In the same time I would like to send the new user I created to the backend with a post request to 'https://jsonplaceholder.typicode.com/posts'
+//
+// 5. A button should allow me to delete the last user of the table 
+//      5.a In the same time a Delete request should be send to the backend 'https://jsonplaceholder.typicode.com/users/id_of_the_deleted_user'
+//
+// 6. Bonus: 
+//      6.a. Implement a watcher on the data you want (If not already done)
+//      6.b. Implement a computed properties (If not already done)
